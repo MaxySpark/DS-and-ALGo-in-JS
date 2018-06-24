@@ -1,0 +1,5 @@
+1. JS string concat() vs "+"
+2. Js slice function
+3. Object prototype
+4. Array lastIndexOf()
+5. JS substring
