@@ -3,3 +3,5 @@
 3. Object prototype
 4. Array lastIndexOf()
 5. JS substring
+6.  https://github.com/kuychaco/algoClass/blob/master/data-structures/ : question
+    https://github.com/kuychaco/algoClass/blob/solutions/data-structures/stack.js : solutions
